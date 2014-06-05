@@ -19,11 +19,13 @@ Usage
 		//Apply method to a container element (div, section, etc.)
 		$(container).mb_equalheight([childrenSelector], [callback]);
 		/*
-			container: 					A selector that represents a container element or a set of container elements
-			childrenSelector:		A selector that filters children of parent element(s)	
-			callback:						A Function launched everytyme the equalization of children of a parent element 
-													is completed. The funzione pass a single paramenter that is parent element just 
-													processed
+		container: 		A selector that represents a container element or a set of 
+					container elements
+		childrenSelector:	A selector that filters children of parent element(s)	
+		callback:		A Function launched everytyme the equalization of children of 
+					a parent element is completed. The funzione pass a single 
+					paramenter that is parent element just	processed
 		*/
+												
 	
 	</script>
