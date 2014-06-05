@@ -13,7 +13,7 @@ Usage
 	            document.write(unescape("%3Cscript src='js/Lib/jquery-1.11.0.min.js' type='text/javascript'%3E%3C/script%3E"));
 	        }
 	</script>
-	<!-- Load Mb Coming Soon Timer -->
+	<!-- Load plugin -->
 	<script src="js/jquery.mb-equalheight.js"></script>
 	<script>
 		//Apply method to a container element (div, section, etc.)
